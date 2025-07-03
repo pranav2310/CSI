@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://csi-bbm6gxd20-pranav2310s-projects.vercel.app',
+  baseURL: 'http://localhost:5001/api',
 });
 
 export default API;
