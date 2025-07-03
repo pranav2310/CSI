@@ -60,11 +60,6 @@ Built with **Node.js/Express**, **MongoDB**, and a modern **React** frontend usi
 ```
 
 - Copy `.env.example` to `.env` and set your environment variables:
-```.env.example
-MONGODB_URI=mongodb://localhost:27017/gail_feedback
-JWT_SECRET=your_jwt_secret
-PORT=5001
-```
 
 - Start Backend Server
 
